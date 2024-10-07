@@ -1,4 +1,4 @@
-# Github Dark theme for Beef IDE
+# Palenight theme for Beef IDE
 
 ![Screenshot of the IDE](screenshot-editor.png)
 ![Screenshot of the Settings window](screenshot-settings.png)
