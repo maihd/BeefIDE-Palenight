@@ -1,0 +1,31 @@
+[Colors]
+Text = 0xA6ACCD
+Window = 0x171a20
+Background = 0x292D3E
+SelectedOutline = 0x717CB470
+MenuFocused = 0xFFFFA000
+MenuSelected = 0xFFFF0000
+AutoCompleteSubText  = 0xB0B0B0
+AutoCompleteDocText = 0xC0C0C0
+AutoCompleteActiveText = 0xFFF8A9
+
+Code = 0x89ddff
+Keyword = 0xc792ea
+PrimitiveType = 0xc792ea
+Struct = 0xffcb6b
+GenericParam = 0x80cbc4
+Literal = 0xc3e88d
+Identifier = 0xeeffff
+Type = 0xffcb6b
+RefType = 0xffcb6b
+Interface = 0xf07178
+Comment = 0x676E95
+Method = 0x82aaff
+Namespace = 0xeeffff
+DisassemblyText = 0xFFB0B0B0
+DisassemblyFileName = 0xFFFF0000
+
+Error = 0xFFFF0000
+BuildError = 0xFFFF8080
+BuildWarning = 0xFFFFFF80
+VisibleWhiteSpace = 0xFF9090C0
